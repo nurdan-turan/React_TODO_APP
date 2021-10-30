@@ -1,13 +1,13 @@
-# ReactJS Todo List project
-During the coding training at **MolenGeek** I made a Todo List to practice ReactJS.
 
-![Alt](https://raw.githubusercontent.com/Va2/react-todo-list/master/screenshot.jpg)
+
+
+![Alt](https://github.com/nurdan-turan/React_Projects/blob/b7c3db813e6ea67a777c4a1200859ff897218751/react_todo_app/todo.jpg)
 
 ## Getting Started
 
 Clone this repository on your local machine.
 ```
-git clone https://github.com/Va2/react-todo-list.git
+git clone https://github.com/nurdan-turan/React_Projects/tree/main/react_todo_app
 cd react-todo-list
 ```
 Run the following commands into the project folder to install project dependencies.
@@ -21,9 +21,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 * [ReactJS](https://reactjs.org/)
 
-## Author(s)
-
-* **Vadim Brieven** - *Junior Web Developer* - [GitHub account](https://github.com/Va2)
 
 ## MIT License
 
